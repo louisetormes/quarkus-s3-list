@@ -54,6 +54,8 @@ aws.region=sa-east-1
 aws.s3.bucket=my-demo-bucket
 aws.access.key=SEU_ACCESS_KEY
 aws.secret.key=SEU_SECRET_KEY
+```
+
 🔐 Dica: Use variáveis de ambiente para não expor suas credenciais no repositório.
 
 ☁️ Subindo o Projeto na EC2
